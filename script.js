@@ -17,26 +17,26 @@ function resultPageClose(){
 // Aman function 
  function Aman() {
   resultPage.style.transform = "scale(1)";
-  document.getElementById("result").src = "Result/Aman12.06.2021.png";
+  document.getElementById("result").src = "Aman12.06.2021.png";
  }
 // Shekhar function 
  function Shekhar() {
   resultPage.style.transform = "scale(1)";
-document.getElementById("result").src = "Result/Shekhar12.06.2021.png";
+document.getElementById("result").src = "Shekhar12.06.2021.png";
  }
 // Nisha function 
  function Nisha() {
   resultPage.style.transform = "scale(1)";
-  document.getElementById("result").src = "Result/Nisha12.06.2021.png";
+  document.getElementById("result").src = "Nisha12.06.2021.png";
  }
 // Supriya function 
  function Supriya() {
   resultPage.style.transform = "scale(1)";
-document.getElementById("result").src = "Result/Supriya12.06.2021.png";
+document.getElementById("result").src = "Supriya12.06.2021.png";
  }
  // Zeba function 
  function Zeba() {
   resultPage.style.transform = "scale(1)";
-document.getElementById("result").src = "Result/Zeba12.06.2021.png";
+document.getElementById("result").src = "Zeba12.06.2021.png";
  }
  
