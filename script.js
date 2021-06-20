@@ -18,6 +18,8 @@ function resultPageClose(){
  function Aman() {
   resultPage.style.transform = "scale(1)";
   document.getElementById("result").src = "Aman12.06.2021.png";
+  
+    document.getElementById("knowMore").href = "Aman.html"
  }
 // Shekhar function 
  function Shekhar() {
