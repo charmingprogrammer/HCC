@@ -19,28 +19,38 @@ function resultPageClose(){
   resultPage.style.transform = "scale(1)";
   document.getElementById("result").src = "Aman12.06.2021.png";
   
-    document.getElementById("knowMore").href = "Aman.html";
-    console.log(document.getElementById("knowMore").href = "Aman.html");
+    document.getElementById("knowMore").href = "AmanKumar.html";
     
  }
 // Shekhar function 
  function Shekhar() {
   resultPage.style.transform = "scale(1)";
 document.getElementById("result").src = "Shekhar12.06.2021.png";
+document.getElementById("knowMore").href = "ShekharKumar.html";
+    
  }
 // Nisha function 
  function Nisha() {
   resultPage.style.transform = "scale(1)";
   document.getElementById("result").src = "Nisha12.06.2021.png";
+  
+document.getElementById("knowMore").href = "NishaKumari.html";
+    
  }
 // Supriya function 
  function Supriya() {
   resultPage.style.transform = "scale(1)";
 document.getElementById("result").src = "Supriya12.06.2021.png";
+document.getElementById("knowMore").href = "SupriyaKumari.html";
+    
+  
  }
  // Zeba function 
  function Zeba() {
   resultPage.style.transform = "scale(1)";
 document.getElementById("result").src = "Zeba12.06.2021.png";
+
+document.getElementById("knowMore").href = "ZebaPraveen.html";
+    
  }
  
