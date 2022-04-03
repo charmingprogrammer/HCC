@@ -29,6 +29,13 @@ nav{
   top: 0;
   z-index: 122;
 }
+#basic_roleover{
+  height: 100%;
+  width: 100%;
+}
+#basic_roleover h2{
+  padding: 10px 20px;
+}
 .sidebar__opener{
   width: 50px;
   height: 100%;
