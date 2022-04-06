@@ -232,7 +232,7 @@ const studentData = [
     {
       Name: "Pritee Kumari",
       Joining: "25.01.2022",
-      Pic: "https://charmingprogrammer.github.io/HCC/Pritee.png",
+      Pic: "https://i.ibb.co/r607D56/20220404-054033-0000.png",
       section: "B",
       Status: "Active",
       result_page: "https://charmingprogrammer.github.io/HCC/Pritee.html",
@@ -251,7 +251,7 @@ const studentData = [
     {
       Name: "Niloo Kumari",
       Joining: "26.12.2021",
-      Pic: "https://charmingprogrammer.github.io/HCC/Niloo.png",
+      Pic: "https://i.ibb.co/r607D56/20220404-054033-0000.png",
       section: "B",
       Status: "Active",
       result_page: "https://charmingprogrammer.github.io/HCC/Niloo.html",
@@ -270,26 +270,7 @@ const studentData = [
     {
       Name: "Nigam Kumar",
       Joining: "24.12.2021",
-      Pic: "https://charmingprogrammer.github.io/HCC/Nigam.png",
-      section: "B",
-      Status: "Active",
-      result_page: "https://charmingprogrammer.github.io/HCC/Nigam.html",
-      result_Info: [
-        {
-          Date: "12.09.2020",
-          Marks: "36%",
-          Progress: "Upward ↑",
-          Question_link: "https://manoarya.com/Question.html",
-        },
-        //   add in this week marks
-      ],
-    },
-    // end
-    // student name
-    {
-      Name: "Nigam Kumar",
-      Joining: "24.12.2021",
-      Pic: "https://charmingprogrammer.github.io/HCC/Nigam.png",
+      Pic: "https://i.ibb.co/5L49LQL/20220405-153726-removebg-preview.png",
       section: "C",
       Status: "Active",
       result_page: "https://charmingprogrammer.github.io/HCC/Nigam.html",
@@ -308,7 +289,7 @@ const studentData = [
     {
       Name: "Krishna Kumar",
       Joining: "29.12.2021",
-      Pic: "https://charmingprogrammer.github.io/HCC/Krishna.png",
+      Pic: "https://i.ibb.co/xM91LQ1/20220405-153705-removebg-preview.png",
       section: "B",
       Status: "Active",
       result_page: "https://charmingprogrammer.github.io/HCC/Krishna.html",
@@ -327,7 +308,7 @@ const studentData = [
     {
       Name: "Arushi Kumari",
       Joining: "03.11.2021",
-      Pic: "https://charmingprogrammer.github.io/HCC/Arushi.png",
+      Pic: "https://i.ibb.co/jT4nJCn/20220405-153752-removebg-preview.png",
       section: "B",
       Status: "Active",
       result_page: "https://charmingprogrammer.github.io/HCC/Arushi.html",
@@ -346,7 +327,7 @@ const studentData = [
     {
       Name: "Aradhna Kumari",
       Joining: "03.11.2021",
-      Pic: "https://charmingprogrammer.github.io/HCC/Aradhna.png",
+      Pic: "https://i.ibb.co/nPFChLB/20220405-153807-removebg-preview.png",
       section: "B",
       Status: "Active",
       result_page: "https://charmingprogrammer.github.io/HCC/Aradhna.html",
@@ -365,7 +346,7 @@ const studentData = [
     {
       Name: "Gokul Kumar",
       Joining: "02.04.2022",
-      Pic: "https://charmingprogrammer.github.io/HCC/Gokul.png",
+      Pic: "https://i.ibb.co/D8QtzDz/20220405-153717-removebg-preview.png",
       section: "B",
       Status: "Active",
       result_page: "https://charmingprogrammer.github.io/HCC/Gokul.html",
@@ -384,7 +365,26 @@ const studentData = [
     {
       Name: "Gautam Kumar",
       Joining: "02.04.2022",
-      Pic: "https://charmingprogrammer.github.io/HCC/Gautam.png",
+      Pic: "https://i.ibb.co/6FpbXy6/20220405-153657-removebg-preview.png",
+      section: "B",
+      Status: "Active",
+      result_page: "https://charmingprogrammer.github.io/HCC/Gautam.html",
+      result_Info: [
+        {
+          Date: "12.09.2020",
+          Marks: "36%",
+          Progress: "Upward ↑",
+          Question_link: "https://manoarya.com/Question.html",
+        },
+        //   add in this week marks
+      ],
+    },
+    // end
+        // student name
+    {
+      Name: "Nisha kumari",
+      Joining: "04.04.2022",
+      Pic: "https://i.ibb.co/wyvkH5Y/20220405-153735-removebg-preview.png",
       section: "B",
       Status: "Active",
       result_page: "https://charmingprogrammer.github.io/HCC/Gautam.html",
