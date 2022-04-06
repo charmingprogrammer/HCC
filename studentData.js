@@ -100,7 +100,7 @@ const studentData = [
       Name: "Abhinash Kumar",
       Joining: "29.06.2021",
       Pic: "https://charmingprogrammer.github.io/HCC/Abhinash.png",
-      section: "B",
+      section: "A",
       Status: "Active",
       result_page: "https://charmingprogrammer.github.io/HCC/Abhinash.html",
       result_Info: [
