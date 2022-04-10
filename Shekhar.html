@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Shekhar Kumar HCC Student.</title>
+    <link rel="stylesheet" href="student.css" />
+  </head>
+  <body>
+    <!-- main container -->
+    <section id="main_container">
+      <!-- student pic -->
+      <div id="student_pic"></div>
+      <!-- Student Info -->
+      <div id="student_info"></div>
+      <!-- Result -->
+      <div id="result">
+        <div id="box_container">
+          <div class="box">Date</div>
+          <div class="box">Percentage</div>
+          <div class="box">Progress</div>
+          <div class="box">Questions</div>
+        </div>
+      </div>
+    </section>
+    <footer>
+        <ul>
+            <li><a href="About.html">About Us</a></li> |
+            <li><a href="Contact.html">Contact Us</a></li> |
+            <li><a href="Privacy.html">Privacy Policy</a></li> |
+            <li><a href="https://www.facebook.com/HCC-100139468975921">Facebook</a></li> 
+        </ul>
+        <p>
+            &copy; All Rights Reserved by HCC katra.
+        </p>
+    </footer>
+  </body>
+  <script src="studentData.js"></script>
+  <script>
+    const result = document.getElementById("result");
+    const student_info = document.getElementById("student_info");
+    const student_pic = document.getElementById("student_pic");
+    const data = studentData[0];
+
+    // Pull student picture form below code
+    student_pic.insertAdjacentHTML(
+      "beforeend",
+      `   <img
+          src="${data.Pic}"
+          alt="${data.Name}"
+        />`
+    );
+    // pull student info form below code
+
+    student_info.insertAdjacentHTML(
+      "beforeend",
+      `   <h1>${data.Name}</h1>
+  <p>
+    Joining Date : <em>${data.Joining}</em> | Section : <em>${data.section}</em> | Status :
+    <em>${data.Status}</em>
+  </p>`
+    );
+
+    // pull result form below code
+    data.result_Info.map((result_data) => {
+      result.insertAdjacentHTML(
+        "beforeend",
+        `
+<div id="box_container">
+<div class="box">${result_data.Date}</div>
+<div class="box">${result_data.Marks}%</div>
+<div class="box">
+    <input type="range" value="${result_data.Marks}">
+</div>
+<div class="box"><a href='${result_data.Question_link}'>Question</a></div>
+`
+      );
+    });
+  </script>
+</html>
