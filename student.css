@@ -1,0 +1,126 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+#main_container {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+#student_pic {
+  height: 100%;
+  width: 100%;
+  background: #32b4db;
+  display: grid;
+  place-content: center;
+  transform: scale(0.9);
+  border-radius: 10px;
+}
+#student_pic img {
+  height: 100%;
+  width: 100%;
+  border-radius: 100%;
+  transform: scale(0.4);
+  border: 10px solid white;
+}
+#student_info {
+  height: 100%;
+  width: 100%;
+  background: white;
+}
+#student_info h1 {
+  font-size: 2rem;
+  font-weight: bold;
+  color: #0d7fe5;
+  text-align: center;
+}
+#student_info p {
+  text-align: center;
+  padding: 10px 20px;
+}
+#result {
+  height: 100%;
+  width: 100%;
+  background: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  margin-top: 20px;
+}
+#box_container {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+.box {
+  height: 40px;
+  width: 20%;
+  transform: scale(0.95);
+  background: #0d80e528;
+  border-radius: 5px;
+  display: grid;
+  place-items: center;
+  font-weight: bold;
+  transition: 0.2s ease-in-out;
+  overflow: hidden;
+}
+.box:hover {
+  background: #0d80e58f;
+  cursor: pointer;
+}
+.box input {
+  width: 90%;
+}
+.box a {
+  text-decoration: none;
+  color: rgb(14, 99, 179);
+}
+footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+footer p {
+  color: #424242;
+}
+footer ul {
+  list-style-type: none;
+  margin-top: 20px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+footer ul li{
+  padding: 1px 2px;
+}
+footer ul li a {
+  text-decoration: none;
+  color: black;
+  
+}
+footer ul li a:hover{
+  color: #0d7fe5;
+  text-decoration: underline;
+}
+@media only screen and (min-width: 700px) {
+  #student_pic {
+    width: 32%;
+    border-radius: 10px;
+    transform: scale(0.9);
+  }
+  #student_info {
+    width: 50%;
+  }
+  #result {
+    margin-top: 20px;
+  }
+}
