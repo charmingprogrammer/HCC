@@ -11,7 +11,7 @@ const studentData = [
       result_Info: [
         {
           Date: "12.09.2020",
-          Marks: "36%",
+          Marks: "36",
           Progress: "Upward ↑",
           Question_link: "https://manoarya.com/Question.html",
         },
@@ -30,7 +30,7 @@ const studentData = [
       result_Info: [
         {
           Date: "12.09.2020",
-          Marks: "36%",
+          Marks: "36",
           Progress: "Upward ↑",
           Question_link: "https://manoarya.com/Question.html",
         },
@@ -49,7 +49,7 @@ const studentData = [
       result_Info: [
         {
           Date: "12.09.2020",
-          Marks: "36%",
+          Marks: "36",
           Progress: "Upward ↑",
           Question_link: "https://manoarya.com/Question.html",
         },
@@ -68,7 +68,7 @@ const studentData = [
       result_Info: [
         {
           Date: "12.09.2020",
-          Marks: "36%",
+          Marks: "36",
           Progress: "Upward ↑",
           Question_link: "https://manoarya.com/Question.html",
         },
@@ -87,7 +87,7 @@ const studentData = [
       result_Info: [
         {
           Date: "12.09.2020",
-          Marks: "36%",
+          Marks: "36",
           Progress: "Upward ↑",
           Question_link: "https://manoarya.com/Question.html",
         },
@@ -106,7 +106,7 @@ const studentData = [
       result_Info: [
         {
           Date: "12.09.2020",
-          Marks: "36%",
+          Marks: "36",
           Progress: "Upward ↑",
           Question_link: "https://manoarya.com/Question.html",
         },
@@ -125,7 +125,7 @@ const studentData = [
       result_Info: [
         {
           Date: "12.09.2020",
-          Marks: "36%",
+          Marks: "36",
           Progress: "Upward ↑",
           Question_link: "https://manoarya.com/Question.html",
         },
@@ -144,7 +144,7 @@ const studentData = [
       result_Info: [
         {
           Date: "12.09.2020",
-          Marks: "36%",
+          Marks: "36",
           Progress: "Upward ↑",
           Question_link: "https://manoarya.com/Question.html",
         },
@@ -163,7 +163,7 @@ const studentData = [
       result_Info: [
         {
           Date: "12.09.2020",
-          Marks: "36%",
+          Marks: "36",
           Progress: "Upward ↑",
           Question_link: "https://manoarya.com/Question.html",
         },
@@ -182,7 +182,7 @@ const studentData = [
       result_Info: [
         {
           Date: "12.09.2020",
-          Marks: "36%",
+          Marks: "36",
           Progress: "Upward ↑",
           Question_link: "https://manoarya.com/Question.html",
         },
@@ -201,7 +201,7 @@ const studentData = [
       result_Info: [
         {
           Date: "12.09.2020",
-          Marks: "36%",
+          Marks: "36",
           Progress: "Upward ↑",
           Question_link: "https://manoarya.com/Question.html",
         },
@@ -220,7 +220,7 @@ const studentData = [
       result_Info: [
         {
           Date: "12.09.2020",
-          Marks: "36%",
+          Marks: "36",
           Progress: "Upward ↑",
           Question_link: "https://manoarya.com/Question.html",
         },
@@ -239,7 +239,7 @@ const studentData = [
       result_Info: [
         {
           Date: "12.09.2020",
-          Marks: "36%",
+          Marks: "36",
           Progress: "Upward ↑",
           Question_link: "https://manoarya.com/Question.html",
         },
@@ -258,7 +258,7 @@ const studentData = [
       result_Info: [
         {
           Date: "12.09.2020",
-          Marks: "36%",
+          Marks: "36",
           Progress: "Upward ↑",
           Question_link: "https://manoarya.com/Question.html",
         },
@@ -277,7 +277,7 @@ const studentData = [
       result_Info: [
         {
           Date: "12.09.2020",
-          Marks: "36%",
+          Marks: "36",
           Progress: "Upward ↑",
           Question_link: "https://manoarya.com/Question.html",
         },
@@ -296,7 +296,7 @@ const studentData = [
       result_Info: [
         {
           Date: "12.09.2020",
-          Marks: "36%",
+          Marks: "36",
           Progress: "Upward ↑",
           Question_link: "https://manoarya.com/Question.html",
         },
@@ -315,7 +315,7 @@ const studentData = [
       result_Info: [
         {
           Date: "12.09.2020",
-          Marks: "36%",
+          Marks: "36",
           Progress: "Upward ↑",
           Question_link: "https://manoarya.com/Question.html",
         },
@@ -334,7 +334,7 @@ const studentData = [
       result_Info: [
         {
           Date: "12.09.2020",
-          Marks: "36%",
+          Marks: "36",
           Progress: "Upward ↑",
           Question_link: "https://manoarya.com/Question.html",
         },
@@ -353,7 +353,7 @@ const studentData = [
       result_Info: [
         {
           Date: "12.09.2020",
-          Marks: "36%",
+          Marks: "36",
           Progress: "Upward ↑",
           Question_link: "https://manoarya.com/Question.html",
         },
@@ -372,7 +372,7 @@ const studentData = [
       result_Info: [
         {
           Date: "12.09.2020",
-          Marks: "36%",
+          Marks: "36",
           Progress: "Upward ↑",
           Question_link: "https://manoarya.com/Question.html",
         },
@@ -391,7 +391,7 @@ const studentData = [
       result_Info: [
         {
           Date: "12.09.2020",
-          Marks: "36%",
+          Marks: "36",
           Progress: "Upward ↑",
           Question_link: "https://manoarya.com/Question.html",
         },
