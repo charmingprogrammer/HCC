@@ -84,10 +84,10 @@ const studentData = [
       result_page: "https://charmingprogrammer.github.io/HCC/NishaKumari.html",
       result_Info: [
         {
-          Date: "12.09.2020",
-          Marks: "36",
+          Date: "09.04.2022",
+          Marks: "31",
           Progress: "Upward ↑",
-          Question_link: "https://manoarya.com/Question.html",
+          Question_link: "HCCKatra_09_04_2022_Questions_batch_A.html",
         },
         //   add in this week marks
       ],
@@ -103,10 +103,10 @@ const studentData = [
       result_page: "https://charmingprogrammer.github.io/HCC/SupriyaKumari.html",
       result_Info: [
         {
-          Date: "12.09.2020",
-          Marks: "36",
+          Date: "09.04.2022",
+          Marks: "62",
           Progress: "Upward ↑",
-          Question_link: "https://manoarya.com/Question.html",
+          Question_link: "HCCKatra_09_04_2022_Questions_batch_B.html",
         },
         //   add in this week marks
       ],
@@ -141,10 +141,10 @@ const studentData = [
       result_page: "https://charmingprogrammer.github.io/HCC/Kajal.html",
       result_Info: [
         {
-          Date: "12.09.2020",
-          Marks: "36",
+          Date: "09.04.2022",
+          Marks: "54",
           Progress: "Upward ↑",
-          Question_link: "https://manoarya.com/Question.html",
+          Question_link: "HCCKatra_09_04_2022_Questions_batch_A.html",
         },
         //   add in this week marks
       ],
@@ -160,10 +160,10 @@ const studentData = [
       result_page: "https://charmingprogrammer.github.io/HCC/Abhinash.html",
       result_Info: [
         {
-          Date: "12.09.2020",
-          Marks: "36",
+          Date: "09.04.2022",
+          Marks: "0",
           Progress: "Upward ↑",
-          Question_link: "https://manoarya.com/Question.html",
+          Question_link: "HCCKatra_09_04_2022_Questions_batch_A.html",
         },
         //   add in this week marks
       ],
@@ -179,10 +179,10 @@ const studentData = [
       result_page: "https://charmingprogrammer.github.io/HCC/Jyotee.html",
       result_Info: [
         {
-          Date: "12.09.2020",
-          Marks: "36",
+          Date: "09.04.2022",
+          Marks: "46",
           Progress: "Upward ↑",
-          Question_link: "https://manoarya.com/Question.html",
+          Question_link: "HCCKatra_09_04_2022_Questions_batch_B.html",
         },
         //   add in this week marks
       ],
@@ -198,10 +198,10 @@ const studentData = [
       result_page: "https://charmingprogrammer.github.io/HCC/Dhiraj.html",
       result_Info: [
         {
-          Date: "12.09.2020",
-          Marks: "36",
+          Date: "09.04.2022",
+          Marks: "40",
           Progress: "Upward ↑",
-          Question_link: "https://manoarya.com/Question.html",
+          Question_link: "HCCKatra_09_04_2022_Questions_batch_B.html",
         },
         //   add in this week marks
       ],
@@ -217,10 +217,10 @@ const studentData = [
       result_page: "https://charmingprogrammer.github.io/HCC/Niraj.html",
       result_Info: [
         {
-          Date: "12.09.2020",
-          Marks: "36",
+          Date: "09.04.2022",
+          Marks: "10",
           Progress: "Upward ↑",
-          Question_link: "https://manoarya.com/Question.html",
+          Question_link: "HCCKatra_09_04_2022_Questions_batch_C.html",
         },
         //   add in this week marks
       ],
@@ -236,10 +236,10 @@ const studentData = [
       result_page: "https://charmingprogrammer.github.io/HCC/Mistree.html",
       result_Info: [
         {
-          Date: "12.09.2020",
-          Marks: "36",
+          Date: "09.04.2022",
+          Marks: "80",
           Progress: "Upward ↑",
-          Question_link: "https://manoarya.com/Question.html",
+          Question_link: "HCCKatra_09_04_2022_Questions_batch_C.html",
         },
         //   add in this week marks
       ],
@@ -255,10 +255,10 @@ const studentData = [
       result_page: "https://charmingprogrammer.github.io/HCC/YashRaj.html",
       result_Info: [
         {
-          Date: "12.09.2020",
-          Marks: "36",
+          Date: "09.04.2022",
+          Marks: "34",
           Progress: "Upward ↑",
-          Question_link: "https://manoarya.com/Question.html",
+          Question_link: "HCCKatra_09_04_2022_Questions_batch_B.html",
         },
         //   add in this week marks
       ],
@@ -274,10 +274,10 @@ const studentData = [
       result_page: "https://charmingprogrammer.github.io/HCC/YashRaj.html",
       result_Info: [
         {
-          Date: "12.09.2020",
-          Marks: "36",
+          Date: "09.04.2022",
+          Marks: "71",
           Progress: "Upward ↑",
-          Question_link: "https://manoarya.com/Question.html",
+          Question_link: "HCCKatra_09_04_2022_Questions_batch_C.html",
         },
         //   add in this week marks
       ],
@@ -293,10 +293,10 @@ const studentData = [
       result_page: "https://charmingprogrammer.github.io/HCC/Pritee.html",
       result_Info: [
         {
-          Date: "12.09.2020",
-          Marks: "36",
+          Date: "09.04.2022",
+          Marks: "80",
           Progress: "Upward ↑",
-          Question_link: "https://manoarya.com/Question.html",
+          Question_link: "HCCKatra_09_04_2022_Questions_batch_B.html",
         },
         //   add in this week marks
       ],
@@ -312,10 +312,10 @@ const studentData = [
       result_page: "https://charmingprogrammer.github.io/HCC/Niloo.html",
       result_Info: [
         {
-          Date: "12.09.2020",
-          Marks: "36",
+          Date: "09.04.2022",
+          Marks: "",
           Progress: "Upward ↑",
-          Question_link: "https://manoarya.com/Question.html",
+          Question_link: "HCCKatra_09_04_2022_Questions_batch_B.html",
         },
         //   add in this week marks
       ],
@@ -331,10 +331,10 @@ const studentData = [
       result_page: "https://charmingprogrammer.github.io/HCC/Nigam.html",
       result_Info: [
         {
-          Date: "12.09.2020",
-          Marks: "36",
+          Date: "09.04.2022",
+          Marks: "60",
           Progress: "Upward ↑",
-          Question_link: "https://manoarya.com/Question.html",
+          Question_link: "HCCKatra_09_04_2022_Questions_batch_C.html",
         },
         //   add in this week marks
       ],
@@ -350,10 +350,10 @@ const studentData = [
       result_page: "https://charmingprogrammer.github.io/HCC/Krishna.html",
       result_Info: [
         {
-          Date: "12.09.2020",
-          Marks: "36",
+          Date: "09.04.2022",
+          Marks: "20",
           Progress: "Upward ↑",
-          Question_link: "https://manoarya.com/Question.html",
+          Question_link: "HCCKatra_09_04_2022_Questions_batch_B.html",
         },
         //   add in this week marks
       ],
@@ -369,10 +369,10 @@ const studentData = [
       result_page: "https://charmingprogrammer.github.io/HCC/Arushi.html",
       result_Info: [
         {
-          Date: "12.09.2020",
-          Marks: "36",
+          Date: "09.04.2022",
+          Marks: "90",
           Progress: "Upward ↑",
-          Question_link: "https://manoarya.com/Question.html",
+          Question_link: "HCCKatra_09_04_2022_Questions_batch_C.html",
         },
         //   add in this week marks
       ],
@@ -388,10 +388,10 @@ const studentData = [
       result_page: "https://charmingprogrammer.github.io/HCC/Aradhna.html",
       result_Info: [
         {
-          Date: "12.09.2020",
-          Marks: "36",
+          Date: "09.04.2022",
+          Marks: "95",
           Progress: "Upward ↑",
-          Question_link: "https://manoarya.com/Question.html",
+          Question_link: "NotFoundHCC.html",
         },
         //   add in this week marks
       ],
@@ -407,10 +407,10 @@ const studentData = [
       result_page: "https://charmingprogrammer.github.io/HCC/Gokul.html",
       result_Info: [
         {
-          Date: "12.09.2020",
-          Marks: "36",
+          Date: "09.04.2022",
+          Marks: "17",
           Progress: "Upward ↑",
-          Question_link: "https://manoarya.com/Question.html",
+          Question_link: "HCCKatra_09_04_2022_Questions_batch_A.html",
         },
         //   add in this week marks
       ],
@@ -426,10 +426,10 @@ const studentData = [
       result_page: "https://charmingprogrammer.github.io/HCC/Gautam.html",
       result_Info: [
         {
-          Date: "12.09.2020",
-          Marks: "36",
+          Date: "09.04.2022",
+          Marks: "10",
           Progress: "Upward ↑",
-          Question_link: "https://manoarya.com/Question.html",
+          Question_link: "HCCKatra_09_04_2022_Questions_batch_A.html",
         },
         //   add in this week marks
       ],
@@ -445,10 +445,10 @@ const studentData = [
       result_page: "https://charmingprogrammer.github.io/HCC/Gautam.html",
       result_Info: [
         {
-          Date: "12.09.2020",
-          Marks: "36",
+          Date: "09.04.2022",
+          Marks: "79",
           Progress: "Upward ↑",
-          Question_link: "https://manoarya.com/Question.html",
+          Question_link: "HCCKatra_09_04_2022_Questions_batch_B.html",
         },
         //   add in this week marks
       ],
