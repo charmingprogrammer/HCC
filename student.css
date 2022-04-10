@@ -61,7 +61,7 @@
 }
 .box {
   height: 40px;
-  width: 20%;
+  width: 22%;
   transform: scale(0.95);
   background: #0d80e528;
   border-radius: 5px;
@@ -122,5 +122,8 @@ footer ul li a:hover{
   }
   #result {
     margin-top: 20px;
+  }
+  .box{
+    width: 20%;
   }
 }
