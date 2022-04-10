@@ -10,11 +10,66 @@ const studentData = [
       result_page: "https://charmingprogrammer.github.io/HCC/ShekharKumar.html",
       result_Info: [
         {
-          Date: "12.09.2020",
-          Marks: "36",
+          Date: "12.06.2021",
+          Marks: "52",
           Progress: "Upward ↑",
-          Question_link: "https://manoarya.com/Question.html",
+          Question_link: "NotFound.html",
         },
+        {
+          Date: "19.06.2021",
+          Marks: "89",
+          Progress: "Upward ↑",
+          Question_link: "NotFound.html",
+        },
+        {
+          Date: "03.07.2021",
+          Marks: "65",
+          Progress: "Upward ↑",
+          Question_link: "NotFound.html",
+        },
+        {
+          Date: "17.07.2021",
+          Marks: "64",
+          Progress: "Upward ↑",
+          Question_link: "NotFound.html",
+        },
+        {
+          Date: "24.07.2021",
+          Marks: "60",
+          Progress: "Upward ↑",
+          Question_link: "NotFound.html",
+        },
+        {
+          Date: "31.07.2021",
+          Marks: "62",
+          Progress: "Upward ↑",
+          Question_link: "NotFound.html",
+        },
+        {
+          Date: "07.08.2021",
+          Marks: "68",
+          Progress: "Upward ↑",
+          Question_link: "NotFound.html",
+        },
+        {
+          Date: "14.08.2021",
+          Marks: "85",
+          Progress: "Upward ↑",
+          Question_link: "NotFound.html",
+        },
+        {
+          Date: "28.08.2021",
+          Marks: "62",
+          Progress: "Upward ↑",
+          Question_link: "NotFound.html",
+        },
+        {
+          Date: "09.04.2022",
+          Marks: "85",
+          Progress: "Upward ↑",
+          Question_link: "HCCKatra_09_04_2022_Questions_batch_A.html",
+        },
+        
         //   add in this week marks
       ],
     },
