@@ -7,7 +7,7 @@ const studentData = [
     Pic: "https://charmingprogrammer.github.io/HCC/Shekhar.png",
     section: "A",
     Status: "Active",
-    result_page: "https://charmingprogrammer.github.io/HCC/ShekharKumar.html",
+    result_page: "Shekhar.html",
     result_Info: [
       {
         Date: "12.06.2021",
