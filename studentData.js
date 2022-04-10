@@ -408,7 +408,7 @@ const studentData = [
       result_Info: [
         {
           Date: "09.04.2022",
-          Marks: "17",
+          Marks: "45",
           Progress: "Upward ↑",
           Question_link: "HCCKatra_09_04_2022_Questions_batch_A.html",
         },
