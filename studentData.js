@@ -81,7 +81,7 @@ const studentData = [
     Pic: "https://charmingprogrammer.github.io/HCC/Nisha.png",
     section: "A",
     Status: "Active",
-    result_page: "https://charmingprogrammer.github.io/HCC/NishaKumari.html",
+    result_page: "Nisha.html",
     result_Info: [
       {
         Date: "09.04.2022",
@@ -100,7 +100,7 @@ const studentData = [
     Pic: "https://charmingprogrammer.github.io/HCC/Supriya.png",
     section: "B",
     Status: "Active",
-    result_page: "https://charmingprogrammer.github.io/HCC/SupriyaKumari.html",
+    result_page: "Supriya.html",
     result_Info: [
       {
         Date: "09.04.2022",
@@ -119,7 +119,7 @@ const studentData = [
     Pic: "https://charmingprogrammer.github.io/HCC/Zeba.png",
     section: "A",
     Status: "Inactive",
-    result_page: "https://charmingprogrammer.github.io/HCC/ZebaPraveen.html",
+    result_page: "Zeba.html",
     result_Info: [
       {
         Date: "12.09.2020",
@@ -138,7 +138,7 @@ const studentData = [
     Pic: "https://charmingprogrammer.github.io/HCC/Kajal.png",
     section: "A",
     Status: "Active",
-    result_page: "https://charmingprogrammer.github.io/HCC/Kajal.html",
+    result_page: "Kajal.html",
     result_Info: [
       {
         Date: "09.04.2022",
@@ -233,7 +233,7 @@ const studentData = [
     Pic: "https://charmingprogrammer.github.io/HCC/Mistree.jpg",
     section: "C",
     Status: "Active",
-    result_page: "https://charmingprogrammer.github.io/HCC/Mistree.html",
+    result_page: "Mistee.html",
     result_Info: [
       {
         Date: "09.04.2022",
@@ -252,7 +252,7 @@ const studentData = [
     Pic: "https://charmingprogrammer.github.io/HCC/Yash.png",
     section: "C",
     Status: "Active",
-    result_page: "https://charmingprogrammer.github.io/HCC/YashRaj.html",
+    result_page: "Yash.html",
     result_Info: [
       {
         Date: "09.04.2022",
@@ -271,7 +271,7 @@ const studentData = [
     Pic: "https://charmingprogrammer.github.io/HCC/Manisha.png",
     section: "C",
     Status: "Active",
-    result_page: "https://charmingprogrammer.github.io/HCC/YashRaj.html",
+    result_page: "Manisha.html",
     result_Info: [
       {
         Date: "09.04.2022",
@@ -442,7 +442,7 @@ const studentData = [
     Pic: "https://i.ibb.co/wyvkH5Y/20220405-153735-removebg-preview.png",
     section: "B",
     Status: "Active",
-    result_page: "https://charmingprogrammer.github.io/HCC/Gautam.html",
+    result_page: "https://charmingprogrammer.github.io/HCC/Nisha_2.html",
     result_Info: [
       {
         Date: "09.04.2022",
