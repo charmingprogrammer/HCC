@@ -1,153 +1,81 @@
 <!DOCTYPE html>
-<head>
-  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  
-  <title>
-    Abhinash Kumar Hcc Student
-  </title>
-<style type="text/css" media="all">
- *{
-   margin: 0;
-   padding: 0;
-   box-sizing: border-box;
-  font-family: Comic Sans MS;
- }
- .ImgContainer{
-   height: 200px;
-   width: 100%;
-   display: grid;
-   place-items: center;
-   background: #0596e2;
-   position:fixed;
-   top: 0;
-   transition: .2s ease-in;
- }
- 
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Abhinash Kumar HCC Student.</title>
+    <link rel="stylesheet" href="student.css" />
+  </head>
+  <body>
+    <!-- main container -->
+    <section id="main_container">
+      <!-- student pic -->
+      <div id="student_pic"></div>
+      <!-- Student Info -->
+      <div id="student_info"></div>
+      <!-- Result -->
+      <div id="result">
+        <div id="box_container">
+          <div class="box">Date</div>
+          <div class="box">Percentage</div>
+          <div class="box">Progress</div>
+          <div class="box">Questions</div>
+        </div>
+      </div>
+    </section>
+    <footer>
+        <ul>
+            <li><a href="About.html">About Us</a></li> |
+            <li><a href="Contact.html">Contact Us</a></li> |
+            <li><a href="Privacy.html">Privacy Policy</a></li> |
+            <li><a href="https://www.facebook.com/HCC-100139468975921">Facebook</a></li> 
+        </ul>
+        <p>
+            &copy; All Rights Reserved by HCC katra.
+        </p>
+    </footer>
+  </body>
+  <script src="studentData.js"></script>
+  <script>
+    const result = document.getElementById("result");
+    const student_info = document.getElementById("student_info");
+    const student_pic = document.getElementById("student_pic");
+    const data = studentData[5];
 
- .ImgContainer img{
-   height: 100px;
-   width:100px;
-   border-radius: 100px;
-   transition: .2s ease-in;
- }
- 
- .ImgContainer h1{
-   color: white;
-   background: none;
-   transition: .2s ease-in;
- }
- .history{
-   height: 100vh;
-   background: #323232;
-   width: 100%;
-   display: flex;
-   justify-content: center;
-   align-items: center;
-   flex-direction: column;
- }
- .box{
-   height: 50px;
-   width: 100%;
-   transform: scale(0.9);
-   border-radius: 5px;
-   display: flex;
-   
- }
- .history h2{
-   width:50%;
-   transform: scale(0.9);
-   background: #444444;
-   color: #ebebeb;
-   border-radius: 5px;
-   padding: 10px 20px ;
-   
- }
- 
- 
- 
-</style>
-  
-</head>
-<body>
-  <div class="ImgContainer" id="ImgContainer">
-    <img src="Abhinash.png" alt="kajal" id="img"/>
-    <h1 id="title">Abhinash Kumar</h1>
-    </div>
-    <div class="history">
-      <div class="box">
-       <h2 style="background:#0596e2;">Test Date</h2> 
-        <h2 style="background:#0596e2;">Percentage</h2>
-      </div>
-      <div class="box">
-        <h2>17.07.2021</h2> 
-        <h2>15% </h2> 
-      </div>
-    <div class="box">
-        <h2>24.07.2021</h2> 
-        <h2>45%</h2> 
-      </div>
-             <div class="box">
-        <h2>31.07.2021</h2> 
-        <h2>68%</h2> 
-      </div>
-         <div class="box">
-        <h2>07.08.2021</h2> 
-        <h2>42%</h2> 
-      </div>
-      <div class="box">
-        <h2>14.08.2021</h2> 
-        <h2>50%</h2> 
-      </div>
+    // Pull student picture form below code
+    student_pic.insertAdjacentHTML(
+      "beforeend",
+      `   <img
+          src="${data.Pic}"
+          alt="${data.Name}"
+        />`
+    );
+    // pull student info form below code
+
+    student_info.insertAdjacentHTML(
+      "beforeend",
+      `   <h1>${data.Name}</h1>
+  <p>
+    Joining Date : <em>${data.Joining}</em> | Section : <em>${data.section}</em> | Status :
+    <em>${data.Status}</em>
+  </p>`
+    );
+
+    // pull result form below code
+    data.result_Info.map((result_data) => {
+      result.insertAdjacentHTML(
+        "beforeend",
+        `
+<div id="box_container">
+<div class="box">${result_data.Date}</div>
+<div class="box">${result_data.Marks}%</div>
 <div class="box">
-        <h2>28.08.2021</h2> 
-        <h2>38%</h2> 
-      </div>
-    </div>
-    
-
-
-<script type="text/javascript" charset="utf-8">
-  let headerCon = document.getElementById("ImgContainer");
-    
-  let img = document.getElementById("img");
-    
-  let title = document.getElementById("title");
-    
-  let prevScrollpos = window.pageYOffset;
-  window.onscroll = function() {
-  let currentScrollPos = window.pageYOffset;
-  if (prevScrollpos > currentScrollPos) {
-    
-     headerCon.style.height = '';
-    headerCon.style.display = '';
-    headerCon.style.alignItems = '';
-  img.style.height = '';
-  img.style.width = '';
-  img.style.transform = '';
-  img.style.marginLeft = '';
-  
-  title.style.fontSize = '';
-  title.style.marginLeft = '';
-    
-    
-  } else {
-   headerCon.style.height = '50px';
-    
-   headerCon.style.display = 'flex';
-    headerCon.style.alignItems = 'center';
-  img.style.height = '50px';
-  img.style.width = '50px';
-  img.style.transform = 'scale(0.9)';
-  img.style.marginLeft = '10px';
-  
-  title.style.fontSize = '20px';
-  title.style.marginLeft = '10px';
-    
-  }
-  prevScrollpos = currentScrollPos;
-}
-
-    </script>
-
-</body>
+    <input type="range" value="${result_data.Marks}">
+</div>
+<div class="box"><a href='${result_data.Question_link}'>Question</a></div>
+`
+      );
+    });
+  </script>
+</html>
