@@ -6,7 +6,7 @@ const studentData = [
     Joining: "07.06.2021",
     Pic: "https://charmingprogrammer.github.io/HCC/Shekhar.png",
     section: "A",
-    Status: "Active",
+    Status: "Inactive ",
     result_page: "Shekhar.html",
     result_Info: [
       {
