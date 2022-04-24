@@ -186,6 +186,8 @@ html {
 .main_content_box pre {
   background: none;
   font-size: 20px;
+  white-space: pre-wrap;
+    white-space: -o-pre-wrap; word-wrap: break-word;
 }
 .main_content_box h2 {
   background: none;
