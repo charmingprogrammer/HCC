@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>HCC Katra Study Tracker</title>
+    <meta
+      name="description"
+      content="Get The All Study Material Of HCC Katra Regularly."
+    />
+    <link rel="stylesheet" href="HCC_tracker.css" />
+    <!--font awesome for icons -->
+    <script
+      src="https://kit.fontawesome.com/9e0ab445c3.js"
+      crossorigin="anonymous"
+    ></script>
+  </head>
+  <body>
+    <!-- navigation -->
+    <nav id="nav">
+      <div class="top_items">
+        <b>HCC KATRA</b>
+        <i class="fas fa-bars" onclick="opener()"></i>
+      </div>
+      <ul>
+        <li><a href="#">Home</a></li>
+        <li><a href="#">How it works</a></li>
+        <li><a href="#">Privacy Policy</a></li>
+        <li><a href="#">About us </a></li>
+        <li><a href="#">Terms and conditions</a></li>
+      </ul>
+    </nav>
+
+    <!-- Date Scroller For get Data Date by Date -->
+    <section id="Date_scroller" onclick="open_filter()">
+      <i class="fas fa-filter"></i>
+    </section>
+       <!-- Date Container -->
+       <div id="Date_container">
+         <div id="filter_nav">
+          <img src="https://i.ibb.co/r607D56/20220404-054033-0000.png" alt="HCC katra Logo">
+          <input type="search"  id="search_input" placeholder="Search" onkeyup="search_input()">
+          <i class="far fa-times-circle" onclick="close_filter()"></i>
+         </div>
+      </div>
+
+
+    <!-- main content section -->
+    <section id="main_content">
+    </section>
+    <script src="HCC_tracker_data.js"></script>
+    <script src="HCC_tracker.js"></script>
+  </body>
+</html>
