@@ -69,6 +69,12 @@ const studentData = [
         Progress: "Upward ↑",
         Question_link: "HCCKatra_09_04_2022_Questions_batch_A.html",
       },
+      {
+        Date: "23.04.2022",
+        Marks: "71",
+        Progress: "Upward ↑",
+        Question_link: "HCCKatra_09_04_2022_Questions_batch_A.html",
+      },
 
       //   add in this week marks
     ],
@@ -86,6 +92,12 @@ const studentData = [
       {
         Date: "09.04.2022",
         Marks: "31",
+        Progress: "Upward ↑",
+        Question_link: "HCCKatra_09_04_2022_Questions_batch_A.html",
+      },
+           {
+        Date: "23.04.2022",
+        Marks: "42",
         Progress: "Upward ↑",
         Question_link: "HCCKatra_09_04_2022_Questions_batch_A.html",
       },
@@ -107,6 +119,12 @@ const studentData = [
         Marks: "62",
         Progress: "Upward ↑",
         Question_link: "HCCKatra_09_04_2022_Questions_batch_B.html",
+      },
+      {
+        Date: "23.04.2022",
+        Marks: "12",
+        Progress: "Upward ↑",
+        Question_link: "HCCKatra_09_04_2022_Questions_batch_A.html",
       },
       //   add in this week marks
     ],
@@ -146,6 +164,12 @@ const studentData = [
         Progress: "Upward ↑",
         Question_link: "HCCKatra_09_04_2022_Questions_batch_A.html",
       },
+      {
+        Date: "23.04.2022",
+        Marks: "87",
+        Progress: "Upward ↑",
+        Question_link: "HCCKatra_09_04_2022_Questions_batch_A.html",
+      },
       //   add in this week marks
     ],
   },
@@ -162,6 +186,12 @@ const studentData = [
       {
         Date: "09.04.2022",
         Marks: "0",
+        Progress: "Upward ↑",
+        Question_link: "HCCKatra_09_04_2022_Questions_batch_A.html",
+      },
+      {
+        Date: "23.04.2022",
+        Marks: "62",
         Progress: "Upward ↑",
         Question_link: "HCCKatra_09_04_2022_Questions_batch_A.html",
       },
@@ -241,6 +271,12 @@ const studentData = [
         Progress: "Upward ↑",
         Question_link: "HCCKatra_09_04_2022_Questions_batch_C.html",
       },
+      {
+        Date: "23.04.2022",
+        Marks: "84",
+        Progress: "Upward ↑",
+        Question_link: "HCCKatra_09_04_2022_Questions_batch_A.html",
+      },
       //   add in this week marks
     ],
   },
@@ -279,6 +315,7 @@ const studentData = [
         Progress: "Upward ↑",
         Question_link: "HCCKatra_09_04_2022_Questions_batch_C.html",
       },
+      
       //   add in this week marks
     ],
   },
@@ -355,6 +392,12 @@ const studentData = [
         Progress: "Upward ↑",
         Question_link: "HCCKatra_09_04_2022_Questions_batch_B.html",
       },
+      {
+        Date: "23.04.2022",
+        Marks: "12",
+        Progress: "Upward ↑",
+        Question_link: "HCCKatra_09_04_2022_Questions_batch_A.html",
+      },
       //   add in this week marks
     ],
   },
@@ -373,6 +416,12 @@ const studentData = [
         Marks: "90",
         Progress: "Upward ↑",
         Question_link: "HCCKatra_09_04_2022_Questions_batch_C.html",
+      },
+      {
+        Date: "23.04.2022",
+        Marks: "36",
+        Progress: "Upward ↑",
+        Question_link: "HCCKatra_09_04_2022_Questions_batch_A.html",
       },
       //   add in this week marks
     ],
@@ -412,6 +461,12 @@ const studentData = [
         Progress: "Upward ↑",
         Question_link: "HCCKatra_09_04_2022_Questions_batch_A.html",
       },
+      {
+        Date: "23.04.2022",
+        Marks: "32",
+        Progress: "Upward ↑",
+        Question_link: "HCCKatra_09_04_2022_Questions_batch_A.html",
+      },
       //   add in this week marks
     ],
   },
@@ -428,6 +483,12 @@ const studentData = [
       {
         Date: "09.04.2022",
         Marks: "10",
+        Progress: "Upward ↑",
+        Question_link: "HCCKatra_09_04_2022_Questions_batch_A.html",
+      },
+      {
+        Date: "23.04.2022",
+        Marks: "29",
         Progress: "Upward ↑",
         Question_link: "HCCKatra_09_04_2022_Questions_batch_A.html",
       },
@@ -449,6 +510,12 @@ const studentData = [
         Marks: "79",
         Progress: "Upward ↑",
         Question_link: "HCCKatra_09_04_2022_Questions_batch_B.html",
+      },
+      {
+        Date: "23.04.2022",
+        Marks: "33",
+        Progress: "Upward ↑",
+        Question_link: "HCCKatra_09_04_2022_Questions_batch_A.html",
       },
       //   add in this week marks
     ],
