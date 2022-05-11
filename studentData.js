@@ -155,7 +155,7 @@ const studentData = [
     Joining: "01.07.2021",
     Pic: "https://charmingprogrammer.github.io/HCC/Kajal.png",
     section: "A",
-    Status: "Active",
+    Status: "InActive",
     result_page: "Kajal.html",
     result_Info: [
       {
@@ -180,7 +180,7 @@ const studentData = [
     Joining: "29.06.2021",
     Pic: "https://charmingprogrammer.github.io/HCC/Abhinash.png",
     section: "A",
-    Status: "Active",
+    Status: "InActive",
     result_page: "https://charmingprogrammer.github.io/HCC/Abhinash.html",
     result_Info: [
       {
