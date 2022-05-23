@@ -1,5 +1,4 @@
  [
-   /*
     {
     "Poster" : "https://cdn.pixabay.com/photo/2016/09/26/20/54/vector-1697029_960_720.png",
       "Name": "Shekhar Kumar ",
@@ -77,7 +76,7 @@
         }
       ]
     },
-*/
+
     {
       "Name": "Nisha Kumari",
       "Joining": "10.06.2021",
@@ -122,7 +121,6 @@
         }
       ]
     },
-    /*
     {
       "Name": "Zeba Praveen",
       "Joining": "06.06.2021",
@@ -139,8 +137,6 @@
         }
       ]
     },
-    */
-    /*
     {
       "Name": "Kajal Kumari",
       "Joining": "01.07.2021",
@@ -164,8 +160,8 @@
         
       ]
     },
-    */
-    /*
+ 
+    
     {
       "Name": "Abhinash Kumar",
       "Joining": "29.06.2021",
@@ -189,7 +185,7 @@
         
       ]
     },
-    */
+ 
     
     {
       "Name": "Jyotee Kumari",
@@ -272,13 +268,13 @@
       ]
     },
  
-    /*
+    
     {
       "Name": "Yash Raj",
       "Joining": "29.06.2021",
       "Pic": "https://charmingprogrammer.github.io/HCC/Yash.png",
       "section": "C",
-      "Status": "InActive",
+      "Status": "Active",
       "result_page": "Yash.html",
       "result_Info": [
         {
@@ -291,14 +287,13 @@
       ]
     },
  
-   */ 
-   /*
+    
     {
       "Name": "Manisha Kumari",
       "Joining": "23.03.2022",
       "Pic": "https://charmingprogrammer.github.io/HCC/Manisha.png",
       "section": "C",
-      "Status": "InActive",
+      "Status": "Active",
       "result_page": "Manisha.html",
       "result_Info": [
         {
@@ -311,7 +306,45 @@
         
       ]
     },
-   */
+ 
+    
+    {
+      "Name": "Pritee Kumari",
+      "Joining": "25.01.2022",
+      "Pic": "https://i.ibb.co/r607D56/20220404-054033-0000.png",
+      "section": "B",
+      "Status": "Active",
+      "result_page": "https://charmingprogrammer.github.io/HCC/Pritee.html",
+      "result_Info": [
+        {
+          "Date": "09.04.2022",
+          "Marks": "80",
+          "Progress": "Upward ↑",
+          "Question_link": "HCCKatra_09_04_2022_Questions_batch_B.html"
+        }
+        
+      ]
+    },
+ 
+    
+    {
+      "Name": "Niloo Kumari",
+      "Joining": "26.12.2021",
+      "Pic": "https://i.ibb.co/r607D56/20220404-054033-0000.png",
+      "section": "B",
+      "Status": "Active",
+      "result_page": "https://charmingprogrammer.github.io/HCC/Niloo.html",
+      "result_Info": [
+        {
+          "Date": "09.04.2022",
+          "Marks": "51",
+          "Progress": "Upward ↑",
+          "Question_link": "HCCKatra_09_04_2022_Questions_batch_B.html"
+        }
+        
+      ]
+    },
+ 
     
     {
       "Name": "Nigam Kumar",
