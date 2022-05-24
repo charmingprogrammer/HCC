@@ -1,81 +1,4 @@
  [
-    {
-    "Poster" : "https://cdn.pixabay.com/photo/2016/09/26/20/54/vector-1697029_960_720.png",
-      "Name": "Shekhar Kumar ",
-      "Joining": "07.06.2021",
-      "Pic": "https://charmingprogrammer.github.io/HCC/Shekhar.png",
-      "section": "A",
-      "Status": "Inactive ",
-      "result_page": "Shekhar.html",
-      "result_Info": [
-        {
-          "Date": "12.06.2021",
-          "Marks": "52",
-          "Progress": "Upward ↑",
-          "Question_link": "NotFound.html"
-        },
-        {
-          "Date": "19.06.2021",
-          "Marks": "89",
-          "Progress": "Upward ↑",
-          "Question_link": "NotFound.html"
-        },
-        {
-          "Date": "03.07.2021",
-          "Marks": "65",
-          "Progress": "Upward ↑",
-          "Question_link": "NotFound.html"
-        },
-        {
-          "Date": "17.07.2021",
-          "Marks": "64",
-          "Progress": "Upward ↑",
-          "Question_link": "NotFound.html"
-        },
-        {
-          "Date": "24.07.2021",
-          "Marks": "60",
-          "Progress": "Upward ↑",
-          "Question_link": "NotFound.html"
-        },
-        {
-          "Date": "31.07.2021",
-          "Marks": "62",
-          "Progress": "Upward ↑",
-          "Question_link": "NotFound.html"
-        },
-        {
-          "Date": "07.08.2021",
-          "Marks": "68",
-          "Progress": "Upward ↑",
-          "Question_link": "NotFound.html"
-        },
-        {
-          "Date": "14.08.2021",
-          "Marks": "85",
-          "Progress": "Upward ↑",
-          "Question_link": "NotFound.html"
-        },
-        {
-          "Date": "28.08.2021",
-          "Marks": "62",
-          "Progress": "Upward ↑",
-          "Question_link": "NotFound.html"
-        },
-        {
-          "Date": "09.04.2022",
-          "Marks": "85",
-          "Progress": "Upward ↑",
-          "Question_link": "HCCKatra_09_04_2022_Questions_batch_A.html"
-        },
-        {
-          "Date": "23.04.2022",
-          "Marks": "71",
-          "Progress": "Upward ↑",
-          "Question_link": "HCCKatra_09_04_2022_Questions_batch_A.html"
-        }
-      ]
-    },
 
     {
       "Name": "Nisha Kumari",
@@ -122,72 +45,6 @@
       ]
     },
     {
-      "Name": "Zeba Praveen",
-      "Joining": "06.06.2021",
-      "Pic": "https://charmingprogrammer.github.io/HCC/Zeba.png",
-      "section": "A",
-      "Status": "Inactive",
-      "result_page": "Zeba.html",
-      "result_Info": [
-        {
-          "Date": "12.09.2020",
-          "Marks": "36",
-          "Progress": "Upward ↑",
-          "Question_link": "https://manoarya.com/Question.html"
-        }
-      ]
-    },
-    {
-      "Name": "Kajal Kumari",
-      "Joining": "01.07.2021",
-      "Pic": "https://charmingprogrammer.github.io/HCC/Kajal.png",
-      "section": "A",
-      "Status": "InActive",
-      "result_page": "Kajal.html",
-      "result_Info": [
-        {
-          "Date": "09.04.2022",
-          "Marks": "54",
-          "Progress": "Upward ↑",
-          "Question_link": "HCCKatra_09_04_2022_Questions_batch_A.html"
-        },
-        {
-          "Date": "23.04.2022",
-          "Marks": "87",
-          "Progress": "Upward ↑",
-          "Question_link": "HCCKatra_09_04_2022_Questions_batch_A.html"
-        }
-        
-      ]
-    },
- 
-    
-    {
-      "Name": "Abhinash Kumar",
-      "Joining": "29.06.2021",
-      "Pic": "https://charmingprogrammer.github.io/HCC/Abhinash.png",
-      "section": "A",
-      "Status": "InActive",
-      "result_page": "https://charmingprogrammer.github.io/HCC/Abhinash.html",
-      "result_Info": [
-        {
-          "Date": "09.04.2022",
-          "Marks": "0",
-          "Progress": "Upward ↑",
-          "Question_link": "HCCKatra_09_04_2022_Questions_batch_A.html"
-        },
-        {
-          "Date": "23.04.2022",
-          "Marks": "62",
-          "Progress": "Upward ↑",
-          "Question_link": "HCCKatra_09_04_2022_Questions_batch_A.html"
-        }
-        
-      ]
-    },
- 
-    
-    {
       "Name": "Jyotee Kumari",
       "Joining": "05.07.2021",
       "Pic": "https://charmingprogrammer.github.io/HCC/Jyotee.png",
@@ -204,46 +61,6 @@
         
       ]
     },
- 
-    
-    {
-      "Name": "Dhiraj Kumar",
-      "Joining": "05.07.2021",
-      "Pic": "https://charmingprogrammer.github.io/HCC/Dhiraj.png",
-      "section": "B",
-      "Status": "Active",
-      "result_page": "https://charmingprogrammer.github.io/HCC/Dhiraj.html",
-      "result_Info": [
-        {
-          "Date": "09.04.2022",
-          "Marks": "40",
-          "Progress": "Upward ↑",
-          "Question_link": "HCCKatra_09_04_2022_Questions_batch_B.html"
-        }
-        
-      ]
-    },
- 
-    
-    {
-      "Name": "Niraj Kumar",
-      "Joining": "05.07.2021",
-      "Pic": "https://charmingprogrammer.github.io/HCC/Niraj.png",
-      "section": "C",
-      "Status": "Active",
-      "result_page": "https://charmingprogrammer.github.io/HCC/Niraj.html",
-      "result_Info": [
-        {
-          "Date": "09.04.2022",
-          "Marks": "10",
-          "Progress": "Upward ↑",
-          "Question_link": "HCCKatra_09_04_2022_Questions_batch_C.html"
-        }
-        
-      ]
-    },
- 
-    
     {
       "Name": "Mistee Kumari",
       "Joining": "29.06.2021",
@@ -267,104 +84,6 @@
         
       ]
     },
- 
-    
-    {
-      "Name": "Yash Raj",
-      "Joining": "29.06.2021",
-      "Pic": "https://charmingprogrammer.github.io/HCC/Yash.png",
-      "section": "C",
-      "Status": "Active",
-      "result_page": "Yash.html",
-      "result_Info": [
-        {
-          "Date": "09.04.2022",
-          "Marks": "34",
-          "Progress": "Upward ↑",
-          "Question_link": "HCCKatra_09_04_2022_Questions_batch_B.html"
-        }
-        
-      ]
-    },
- 
-    
-    {
-      "Name": "Manisha Kumari",
-      "Joining": "23.03.2022",
-      "Pic": "https://charmingprogrammer.github.io/HCC/Manisha.png",
-      "section": "C",
-      "Status": "Active",
-      "result_page": "Manisha.html",
-      "result_Info": [
-        {
-          "Date": "09.04.2022",
-          "Marks": "71",
-          "Progress": "Upward ↑",
-          "Question_link": "HCCKatra_09_04_2022_Questions_batch_C.html"
-        }
-        
-        
-      ]
-    },
- 
-    
-    {
-      "Name": "Pritee Kumari",
-      "Joining": "25.01.2022",
-      "Pic": "https://i.ibb.co/r607D56/20220404-054033-0000.png",
-      "section": "B",
-      "Status": "Active",
-      "result_page": "https://charmingprogrammer.github.io/HCC/Pritee.html",
-      "result_Info": [
-        {
-          "Date": "09.04.2022",
-          "Marks": "80",
-          "Progress": "Upward ↑",
-          "Question_link": "HCCKatra_09_04_2022_Questions_batch_B.html"
-        }
-        
-      ]
-    },
- 
-    
-    {
-      "Name": "Niloo Kumari",
-      "Joining": "26.12.2021",
-      "Pic": "https://i.ibb.co/r607D56/20220404-054033-0000.png",
-      "section": "B",
-      "Status": "Active",
-      "result_page": "https://charmingprogrammer.github.io/HCC/Niloo.html",
-      "result_Info": [
-        {
-          "Date": "09.04.2022",
-          "Marks": "51",
-          "Progress": "Upward ↑",
-          "Question_link": "HCCKatra_09_04_2022_Questions_batch_B.html"
-        }
-        
-      ]
-    },
- 
-    
-    {
-      "Name": "Nigam Kumar",
-      "Joining": "24.12.2021",
-      "Pic": "https://i.ibb.co/5L49LQL/20220405-153726-removebg-preview.png",
-      "section": "C",
-      "Status": "Active",
-      "result_page": "https://charmingprogrammer.github.io/HCC/Nigam.html",
-      "result_Info": [
-        {
-          "Date": "09.04.2022",
-          "Marks": "60",
-          "Progress": "Upward ↑",
-          "Question_link": "HCCKatra_09_04_2022_Questions_batch_C.html"
-        }
-        
-      ]
-    },
- 
-    
     {
       "Name": "Krishna Kumar",
       "Joining": "29.12.2021",
@@ -388,8 +107,6 @@
         
       ]
     },
- 
-    
     {
       "Name": "Arushi Kumari",
       "Joining": "03.11.2021",
@@ -413,8 +130,6 @@
         
       ]
     },
- 
-    
     {
       "Name": "Aradhna Kumari",
       "Joining": "03.11.2021",
@@ -432,8 +147,6 @@
         
       ]
     },
- 
-    
     {
       "Name": "Gokul Kumar",
       "Joining": "02.04.2022",
@@ -457,8 +170,6 @@
         
       ]
     },
- 
-    
     {
       "Name": "Gautam Kumar",
       "Joining": "02.04.2022",
@@ -482,8 +193,6 @@
         
       ]
     },
- 
-    
     {
       "Name": "Nisha kumari",
       "Joining": "04.04.2022",
