@@ -1,45 +1,19 @@
 [
     {
-        "first" : "John"
-    },
-    {
-        "second" : "Doe"
-    },
-    {
-        "third" : "Smith"
-    },
-    {
-        "fourth" : "Jones"
-    },
-    {
-        "fifth" : "Smith"
-    },
-    {
-        "sixth" : "Doe"
-    },
-    {
-        "seventh" : "Smith"
-    },
-    {
-        "eighth" : "Doe"
-    },
-    {
-        "ninth" : "Smith"
-    },
-    {
-        "tenth" : "Doe"
-    },
-    {
-        "sFirst" : "John"
-    },
-    {
-        "sSecond" : "Doe"
-    },
-    {
-        "gFirst" : "John"
-    },
-    {
-        "gSecond" : "Doe"
+        "first" : "John",
+        "second" : "Doe",
+        "third" : "Smith",
+        "fourth" : "Doe",
+        "fifth" : "Smith",
+        "sixth" : "Doe",
+        "seventh" : "Smith",
+        "eighth" : "Doe",
+        "ninth" : "Smith",
+        "tenth" : "Doe",
+        "sFirst" : "sJohn",
+        "sSecond" : "sDoe",
+        "gFirst" : "gJohn",
+        "gSecond" : "gDoe"
     }
 
 ]
