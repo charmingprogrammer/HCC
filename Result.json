@@ -1,0 +1,49 @@
+[
+    {
+        "Rank"  : "1",
+        "Name"  : "Manohar Anand",
+        "Percentage" : "100%",
+        "Division"  : "first"
+    },
+    {
+        "Rank"  : "2",
+        "Name"  : "Komal Kumari",
+        "Percentage" : "100%",
+        "Division"  : "first"
+    },
+    {
+        "Rank"  : "3",
+        "Name"  : "Meera Devi",
+        "Percentage" : "100%",
+        "Division"  : "first"
+
+    },
+    {
+        "Rank"  : "4",
+        "Name"  : "Ram Sati Devi",
+        "Percentage" : "100%",
+        "Division"  : "first"
+
+    },
+    {
+        "Rank"  : "5",
+        "Name"  : "Soni Kumari",
+        "Percentage" : "100%",
+        "Division"  : "first"
+
+    },
+    {
+        "Rank"  : "6",
+        "Name"  : "Uma shankar",
+        "Percentage" : "100%",
+        "Division"  : "first"
+
+    },
+    {
+        "Rank"  : "7",
+        "Name"  : "Mahendra kumar",
+        "Percentage" : "100%",
+        "Division"  : "first"
+
+    }
+]
