@@ -1,26 +1,26 @@
 [
     {
         "Rank"  : "1",
-        "Name"  : "Manohar Anand",
+        "Name"  : "Nisha Kumari",
         "Percentage" : "100%",
         "Division"  : "first"
     },
     {
         "Rank"  : "2",
-        "Name"  : "Komal Kumari",
+        "Name"  : "Mistee Lali",
         "Percentage" : "100%",
         "Division"  : "first"
     },
     {
         "Rank"  : "3",
-        "Name"  : "Meera Devi",
+        "Name"  : "Supriya Kumari",
         "Percentage" : "100%",
         "Division"  : "first"
 
     },
     {
         "Rank"  : "4",
-        "Name"  : "Ram Sati Devi",
+        "Name"  : "Krishna Kumar",
         "Percentage" : "100%",
         "Division"  : "first"
 
@@ -34,14 +34,42 @@
     },
     {
         "Rank"  : "6",
-        "Name"  : "Uma shankar",
+        "Name"  : "Arushi Kumari",
         "Percentage" : "100%",
         "Division"  : "first"
 
     },
     {
         "Rank"  : "7",
-        "Name"  : "Mahendra kumar",
+        "Name"  : "Aradhna Kumari",
+        "Percentage" : "100%",
+        "Division"  : "first"
+
+    },
+    {
+        "Rank"  : "8",
+        "Name"  : "Sanjana kumari",
+        "Percentage" : "100%",
+        "Division"  : "first"
+
+    },
+    {
+        "Rank"  : "9",
+        "Name"  : "Gokul Kumar",
+        "Percentage" : "100%",
+        "Division"  : "first"
+
+    },
+    {
+        "Rank"  : "10",
+        "Name"  : "Gautam Kumar",
+        "Percentage" : "100%",
+        "Division"  : "first"
+
+    },
+    {
+        "Rank"  : "11",
+        "Name"  : "Nisha Kumari(II)",
         "Percentage" : "100%",
         "Division"  : "first"
 
