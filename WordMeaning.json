@@ -1,13 +1,13 @@
 [ {
-  "Date": "12.09.2002",
-  "1" : "Proud : गर्व",
-  "2" : "Tree : पेड़",
-  "3" :"Forest : जंगल",
-  "4" : "Tall : लंबा",
-  "5" :"Next : अगला",
-  "6" :"Very : बहुत",
-  "7" :"Handsome : आकर्षक ",
-  "8" :"Can : कर सकते हैं",
-  "9" :"Defeat : हराना",
-  "10" :" Me : मुझे"
-}]
+    "Date": "12.09.2002",
+    "first" : "Proud : गर्व",
+    "second" : "Tree : पेड़",
+    "third" :"Forest : जंगल",
+    "forth" : "Tall : लंबा",
+    "fifth" :"Next : अगला",
+    "sixth" :"Very : बहुत",
+    "seventh" :"Handsome : आकर्षक ",
+    "eighth" :"Can : कर सकते हैं",
+    "nineth" :"Defeat : हराना",
+    "tenth" :" Me : मुझे"
+  }]
